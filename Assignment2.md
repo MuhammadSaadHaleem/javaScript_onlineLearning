@@ -19,7 +19,7 @@ Code:
 
 function search(arry, val) {
     
-    if (arry[0] === val) {
+   if (arry[0] === val) {
     return true;
   }
     if (arry.length === 0) {
